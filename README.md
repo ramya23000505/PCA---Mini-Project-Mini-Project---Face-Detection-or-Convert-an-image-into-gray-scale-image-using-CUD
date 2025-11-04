@@ -150,7 +150,6 @@ plt.show()
 ```
 ## Output:
 ### Original Image
-<img width="1234" height="421" alt="image" src="https://github.com/user-attachments/assets/28350e64-f7b8-4274-b3e4-d0426d79e7ad" />
 ### Gray Scale Image
 <img width="1600" height="1200" alt="output-onlinetools" src="https://github.com/user-attachments/assets/a337172b-ed32-4016-b1d4-5b280fbb8c7a" />
 
